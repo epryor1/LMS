@@ -11,3 +11,6 @@ A Java-based library management system with the following features:
 - Built-in input validation to enhance user experience and security.
 Designed for learning Java, GUI design (Swing), and database integration.
 
+## How to Run
+1. Clone this repository.
+2. Compile and run `LoginScreen.java` in your preferred IDE.
